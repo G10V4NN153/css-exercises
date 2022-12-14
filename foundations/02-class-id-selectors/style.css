@@ -1,0 +1,16 @@
+.class {
+    background-color: hwb(0 30% 0%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#a{
+    color: hsl(239, 65%, 33%);
+    font-size: 36px;
+
+}
+#b{
+    background-color: rgb(94, 255, 0);
+    font-weight: 700;
+}
+.one{
+    font-size: 24px;
+}
